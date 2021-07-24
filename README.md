@@ -4,8 +4,8 @@ I'm stage actor, but I also do front-end development as a hobby.
 Enjoy!!  
 
 <p align="left">
-  Find me: 
-<a href="https://twitter.com/@hajifudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hajifudev" height="30" width="40" /></a>
+  Find me at Twitter 
+<a href="https://twitter.com/@hajifudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@HajifuDev" height="20" width="20" /></a>
 </p>
 
 ## Frontend
