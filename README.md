@@ -1,6 +1,6 @@
-# Welocome to my page!🚀
-My name is `Hajifu` .  
-I'm stage actor, but I also do front-end development as a hobby.  
+# Welcome to my page!🚀
+Hi, My name is `Hajifu` .  
+I'm a stage actor, but I also do front-end development as a hobby.  
 Enjoy!!  
 
 <p align="left">
