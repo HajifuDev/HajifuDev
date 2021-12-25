@@ -1,7 +1,7 @@
 # Welcome to my page!🚀
 Hi, My name is `Hajifu` .  
-I'm a stage actor, but I also do front-end development as a hobby.  
-Enjoy!!  
+I'm a stage actor.  
+I'm a front-end engineer(as a hobby).
 
 <p align="left">
   Find me at Twitter 
