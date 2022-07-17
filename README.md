@@ -1,5 +1,5 @@
 # Welcome to my page!🚀
-Hi, My name is `Hajifu` .  
+Hi, My name is `hajiifu` .  
 I'm a stage actor.  
 I'm a front-end engineer(as a hobby).
 
